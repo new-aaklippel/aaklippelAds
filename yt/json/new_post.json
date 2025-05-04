@@ -1,17 +1,17 @@
 {
-    "link1": {
+    "link2": {
         "link": "https://youtube.com/shorts/qr6dTKUPhZU",
         "id": "qr6dTKUPhZU",
         "title": "Ficha técnica do Xiaomi Redmi Note 12S (Notas)"
     },
-    "link2": {
+    "link3": {
         "link": "https://youtube.com/shorts/xfCQ-m83chc",
         "id": "xfCQ-m83chc",
         "title": "Ficha Técnica do Xiaomi Redmi Note 12S (Dados gerais)"
     },
-    "link3": {
-        "link": "https://youtu.be/OOz15YCqzIs",
-        "id": "OOz15YCqzIs",
-        "title": "Ficha Técnica do Xiaomi Redmi Note 12S."
+    "link1": {
+        "link": "https://youtube.com/shorts/n2U9-LJs0jM",
+        "id": "n2U9-LJs0jM",
+        "title": "Ficha Técnica do Xiaomi Redmi Note 12S (Sistema Operacional)"
     }
 }
