@@ -29,6 +29,16 @@
             "link": "https://youtube.com/shorts/cZle3I5ifJA",
             "id": "cZle3I5ifJA",
             "title": "Dados técnicos: Ficha técnica do Xiaomi Redmi Note 12S"
+        },
+        {
+            "link": "https://youtube.com/shorts/9qMVSFGAB94",
+            "id": "9qMVSFGAB94",
+            "title": "Tela: Ficha técnica do Xiaomi Redmi Note 12S"
+        },
+        {
+            "link": "https://youtube.com/shorts/SdAshWISlRM",
+            "id": "SdAshWISlRM",
+            "title": "Câmera: Ficha técnica do Xiaomi Redmi Note 12S"
         }
     ],
     "pin": [
@@ -51,16 +61,31 @@
     ],
     "fb": [
         {
-            "link": "https://pin.it/4tBKU2riv"
+            "link": "https://www.facebook.com/share/r/19FjjLdPMd/"
         },
         {
-            "link": "https://pin.it/6iOhguUx7"
+            "link": "https://www.facebook.com/share/r/1BqasoJLkG/"
         },
         {
-            "link": "https://pin.it/4bPPtyiZV"
+            "link": "https://www.facebook.com/share/r/1F2AzdkNWr/"
         },
         {
-            "link": "https://pin.it/33BFmGbOv"
+            "link": "https://www.facebook.com/share/r/16E7xWskDR/"
+        }
+    ],
+    "insta": [
+        {
+            "link": "https://www.instagram.com/reel/DJJ9s2VpMeE/?igsh=N2VkM2hiYWZmYzVy"
+        }
+    ],
+    "kwai": [
+        {
+            "link": "https://k.kwai.com/p/hMooC4lU"
+        }
+    ],
+    "tiktok": [
+        {
+            "link": "https://vm.tiktok.com/ZMS1NjUbV/"
         }
     ]
 }
