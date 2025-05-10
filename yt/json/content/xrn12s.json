@@ -75,17 +75,17 @@
     ],
     "insta": [
         {
-            "https://www.instagram.com/reel/DJJ9s2VpMeE/?igsh=N2VkM2hiYWZmYzVy"
+            "link": "https://www.instagram.com/reel/DJJ9s2VpMeE/?igsh=N2VkM2hiYWZmYzVy"
         }
     ],
     "kwai": [
         {
-            "https://k.kwai.com/p/hMooC4lU"
+            "link": "https://k.kwai.com/p/hMooC4lU"
         }
     ],
     "tiktok": [
         {
-            "https://vm.tiktok.com/ZMS1NjUbV/"
+            "link": "https://vm.tiktok.com/ZMS1NjUbV/"
         }
     ]
 }
